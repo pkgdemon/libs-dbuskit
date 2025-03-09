@@ -6,7 +6,7 @@
   );
   GSThemeDetails = "Theme that enables the global Ubuntu app menu";
   GSThemeDomain = {
-	NSMenuInterfaceStyle = NSWindows95InterfaceStyle;
+	NSMenuInterfaceStyle = NSMacintoshInterfaceStyle;
 	GSSuppressAppIcon = YES;
   };
 }
